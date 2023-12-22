@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img-1{
+    height: 50%;
+    width: 50%;
+    display: block; 
+}
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.img-2{
+    height: 80%;
+    width: 80%;
+}
+
+/* .button{
+    margin-left: ;
+} */
+/* .formpage{
+ display: flex;
+ flex-direction: column;   
+} */
+
+.bg-color{
+    background-color: rgb(108, 175, 251);
+}
