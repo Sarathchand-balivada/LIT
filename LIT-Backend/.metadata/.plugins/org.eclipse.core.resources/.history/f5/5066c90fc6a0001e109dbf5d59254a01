@@ -1,0 +1,12 @@
+package com.example.RegisterLogin.Service.Impl;
+
+import com.example.RegisterLogin.Service.EmployeeService;
+
+public class EmployeeIMPL implements EmployeeService {
+	@Override
+	public String addEmployee(EmployeeDTO employeeDTO) {
+		return null;
+		
+	}
+
+}

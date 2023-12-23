@@ -1,0 +1,5 @@
+package com.example.RegisterLogin.Service.Impl;
+
+public class LoginMesage {
+
+}

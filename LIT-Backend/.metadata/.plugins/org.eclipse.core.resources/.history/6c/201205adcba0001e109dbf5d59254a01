@@ -1,0 +1,14 @@
+package com.example.RegisterLogin.Service;
+
+import com.example.Registation.Dto.EmployeeDTO;
+
+import com.example.Registation.Dto.LoginDTO;
+import com.example.Registation.payload.response.LoginMesage;
+import com.example.RegisterLogin.payloadresponse.LoginMessage;
+
+public interface EmployeeService {
+	
+    String addEmployee(EmployeeDTO employeeDTO);
+    LoginMessage loginEmployee(LoginDTO loginDTO);
+    
+}

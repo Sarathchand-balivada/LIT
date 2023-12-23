@@ -1,0 +1,12 @@
+1703242511018	Rename type 'LitInternalApplication'
+1703242514171	Rename type 'LitInternalApplicationTests'
+1703242646266	Rename package 'com.example.LIT.internal.application'
+1703243200751	Rename package 'Repository'
+1703247359518	Delete element
+1703247491678	Rename package 'config'
+1703247509563	Rename package 'Dto'
+1703247530829	Rename package 'EmployeeController'
+1703247543887	Rename package 'Entity'
+1703247557379	Rename package 'Service'
+1703247602407	Rename package 'Repo'
+1703250871510	Delete element

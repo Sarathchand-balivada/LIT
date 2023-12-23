@@ -1,0 +1,10 @@
+package com.example.RegisterLogin.Service;
+
+public class LoginDTO {
+
+	public String getPassword() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

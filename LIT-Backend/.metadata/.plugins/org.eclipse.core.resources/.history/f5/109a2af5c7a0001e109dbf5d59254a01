@@ -1,0 +1,23 @@
+package com.example.RegisterLogin.Service.Impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.example.RegisterLogin.Repo.EmployeeRepo;
+import com.example.RegisterLogin.Service.EmployeeDTO;
+import com.example.RegisterLogin.Service.EmployeeService;
+
+
+public class EmployeeIMPL implements EmployeeService {
+	
+	@Autowired
+	private EmployeeRepo employeeRepo;
+
+	@Override
+	public String addEmployee(EmployeeDTO employeeDTO) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+
+}
